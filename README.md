@@ -1,4 +1,7 @@
 # AppTodo
+####A simple to-do list, as an Angular study project ✔️
+
+![App sem nenhuma task](./src/assets/img/todoList1.png)![App sendo utilizado](./src/assets/img/todoList2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
