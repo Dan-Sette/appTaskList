@@ -1,5 +1,5 @@
 # AppTodo
-####A simple to-do list, as an Angular study project ✔️
+#### A simple to-do list, as an Angular study project ✔️
 
 ![App sem nenhuma task](./src/assets/img/todoList1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![App sendo utilizado](./src/assets/img/todoList2.png)
 
